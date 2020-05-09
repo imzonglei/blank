@@ -3,3 +3,4 @@ print('So what is your device?')
 print('im zonglei!')
 
 print('I II III IV')
+print(yyy)
